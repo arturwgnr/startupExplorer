@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "AI Tools",
+    "tagline": "Next-gen AI productivity platform",
+    "category": "AI",
+    "url": "https://aitools.com"
+  },
+  {
+    "id": "2",
+    "name": "DesignHub",
+    "tagline": "Design collaboration made simple",
+    "category": "Design",
+    "url": "https://designhub.com"
+  },
+  {
+    "id": "3",
+    "name": "DevBoost",
+    "tagline": "Boost your coding workflow",
+    "category": "DevTools",
+    "url": "https://devboost.com"
+  },
+  {
+    "id": "4",
+    "name": "Healthify",
+    "tagline": "AI-powered personal health coach",
+    "category": "Health",
+    "url": "https://healthify.com"
+  },
+  {
+    "id": "5",
+    "name": "EcoTrack",
+    "tagline": "Track and reduce your carbon footprint",
+    "category": "Sustainability",
+    "url": "https://ecotrack.com"
+  },
+  {
+    "id": "6",
+    "name": "FinSmart",
+    "tagline": "Smarter personal finance management",
+    "category": "Finance",
+    "url": "https://finsmart.com"
+  },
+  {
+    "id": "7",
+    "name": "EduNext",
+    "tagline": "Next-gen learning platform",
+    "category": "Education",
+    "url": "https://edunext.com"
+  },
+  {
+    "id": "8",
+    "name": "FoodieAI",
+    "tagline": "Personalized recipe and nutrition assistant",
+    "category": "FoodTech",
+    "url": "https://foodieai.com"
+  },
+  {
+    "id": "9",
+    "name": "TravelMate",
+    "tagline": "Plan your trips with AI recommendations",
+    "category": "Travel",
+    "url": "https://travelmate.com"
+  },
+  {
+    "id": "10",
+    "name": "SecureNet",
+    "tagline": "Cybersecurity simplified for everyone",
+    "category": "Security",
+    "url": "https://securenet.com"
+  }
+]
