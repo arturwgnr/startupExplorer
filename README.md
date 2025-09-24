@@ -1,30 +1,30 @@
 🚀 Startup Explorer
 
-Uma aplicação em React para explorar startups e salvar favoritas.  
-Projeto focado em aprendizado de React + Context + Reducer + Router.
+A React application to explore startups and save favourites.  
+Project focused on practicing React + Context + Reducer + Router.
 
-✨ Funcionalidades
-- Listagem de startups (mock data por enquanto)
-- Adicionar ⭐ aos favoritos
-- Remover ❌ dos favoritos
-- Navegação entre páginas (Landing, Startups, Favourites)
+✨ Features
+- List startups (mock data for now)
+- Add ⭐ to favourites
+- Remove ❌ from favourites
+- Navigation between pages (Landing, Startups, Favourites)
 
-🛠️ Tecnologias
+🛠️ Tech Stack
 - React + Vite + TypeScript
 - React Router v6
 - Context API + useReducer
-- CSS básico
+- Basic CSS
 
-📂 Estrutura
+📂 Structure
 /pages → Landing, Startups, Favourites  
 /context → StartupContext (Provider + Hook)  
 /public → mockStartups.json  
 
-▶️ Como rodar
+▶️ How to run
 1. `npm install`
 2. `npm run dev`
-3. Acesse `http://localhost:5173`
+3. Open `http://localhost:5173`
 
-📌 Observações
-- Mock data em `public/mockStartups.json`
-- Próximos passos: integrar API real (Product Hunt)
+📌 Notes
+- Using mock data in `public/mockStartups.json`
+- Next step: integrate real Product Hunt API
